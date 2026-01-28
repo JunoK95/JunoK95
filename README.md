@@ -1,15 +1,15 @@
 ## 👋 Hi, I’m Juno
 
-Frontend engineer focused on building clean, scalable, and user-friendly web interfaces.
+Frontend engineer focused on building clean, scalable, and user-friendly web and mobile app interfaces.
 
 I enjoy working at the intersection of **UI, state management, and data modeling**, and I care a lot about code quality, developer experience, and thoughtful UX.
 
 ### 🛠 Tech Stack
-- **Frontend:** React, TypeScript, Next.js, Vite
-- **UI:** CSS Modules, Tailwind, component-driven design
+- **Frontend:** React, TypeScript, Next.js, Vite, Electron
+- **UI:** CSS Modules, Tailwind, component-driven design, accessibility, Figma
 - **State & Data:** TanStack Table, Context API, REST APIs
-- **Backend (working knowledge):** Supabase, SQL
-- **Tools:** Git, GitHub, Vercel
+- **Backend:** Supabase, SQL
+- **Tools:** Git, GitHub, Vercel, ESLint/Prettier
 
 ### 🧩 Featured Projects
 - **Tag Management UI**  
@@ -19,8 +19,6 @@ I enjoy working at the intersection of **UI, state management, and data modeling
 - **Productive UI Components**  
   Reusable components focused on accessibility and developer ergonomics.  
   *React, TypeScript*
-
-> See pinned repositories below for code samples and detailed READMEs.
 
 ### 💡 What I Care About
 - Clean, maintainable TypeScript
