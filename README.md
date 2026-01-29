@@ -12,9 +12,9 @@ I enjoy working at the intersection of **UI, state management, and data modeling
 - **Tools:** Git, GitHub, Vercel, ESLint/Prettier
 
 ### 🧩 Featured Projects
-- **Tag Management UI**  
+- **Task Management Platform**  
   A typed, scalable tag system with filtering, selection, and clean table abstractions.  
-  *React, TypeScript, TanStack Table*
+  *React, TypeScript, TanStack Table, Supabase, Electron*
 
 - **Productive UI Components**  
   Reusable components focused on accessibility and developer ergonomics.  
