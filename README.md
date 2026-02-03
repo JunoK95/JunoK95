@@ -21,7 +21,7 @@ I enjoy working at the intersection of **UI, state management, and data modeling
   *React, TypeScript*
 
 - **Vtube Studio Bridge**  
-  A platform to bridge OpenAI with Vtube Studio to build an automatic interactive Vtuber.
+  A platform to bridge OpenAI with Vtube Studio to build an automatic interactive Vtuber.  
   *React, TypeScript, Nodejs*
 
 ### 💡 What I Care About
