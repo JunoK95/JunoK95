@@ -17,7 +17,8 @@ I enjoy working at the intersection of **UI, state management, and data modeling
   *React, TypeScript, TanStack Table, Supabase, Electron*
 
 - **Productive UI Components**  
-  Reusable components focused on accessibility and developer ergonomics.  
+  A React UI component library built with TypeScript and Vite. 30+ components — forms, overlays, navigation, and data display — with a token-based theme system, dark mode, and multiple color palettes.         
+  Available on npm.
   *React, TypeScript*
 
 - **Vtube Studio Bridge**  
